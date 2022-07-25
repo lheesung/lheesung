@@ -1,11 +1,9 @@
 <h1 align="center"> Hi there!! I'm Hee Sung Lee! 👋</h1>
 
-<p>
   - 🔭 I’m currently studying at Busan Software Meighster Highschool<br>
   - 🌱 I’m currently learning C, HTML, etc...<br> 
   - ✉️ Male: a25468213@gmail.com<br>
-  - ⚡ TMI: I like fashion🧥, and I like socce⚽<br>
-</p>  
+  - ⚡ TMI: I like fashion🧥, and I like soccer⚽<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
