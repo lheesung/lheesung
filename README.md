@@ -1,4 +1,5 @@
-<h3> Hi there!! I'm Hee Sung Lee! 👋</h3>
+<h1 align="center"> Hi there!! I'm Hee Sung Lee! 👋</h1>
+
 <p>
   - 🔭 I’m currently studying at Busan Software Meighster Highschool<br>
   - 🌱 I’m currently learning C, HTML, etc...<br> 
@@ -15,3 +16,5 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lheesung&show_icons=true&locale=en&layout=compact" alt="lheesung" /></p>
+
+
