@@ -1,8 +1,8 @@
 <h1 align="center"> Hi there!! I'm Hee Sung Lee! 👋</h1>
 <p align="center">
-   🔭 I’m currently studying at Busan Software Meighster Highschool
-   🌱 I’m currently learning C, HTML, etc...
-   ✉️ Male: a25468213@gmail.com
+   🔭 I’m currently studying at Busan Software Meighster Highschool<br>
+   🌱 I’m currently learning C, HTML, etc...<br>
+   ✉️ Male: a25468213@gmail.com<br>
    ⚡ TMI: I like fashion🧥, and I like soccer⚽
 </p>
 <h3 align="center">Connect with me:</h3>
