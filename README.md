@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there!! I'm Hee Sung Lee! 👋</h1>
 <p align="center">
    🔭 I’m currently studying at Busan Software Meister Highschool<br>
-   🌱 I’m currently learning C, HTML,Python,Java etc...<br>
+   🌱 I’m currently learning C, HTML,CSS,JavaScript,React js,Python,Java...<br>
    ✉️ Male: a25468213@gmail.com<br>
    ⚡ TMI: I like fashion🧥, and I like to watch movie🎞️
 </p>
