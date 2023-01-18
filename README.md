@@ -2,8 +2,6 @@
 <p align="center">
    🔭 I’m currently studying at Busan Software Meister Highschool<br>
    🌱 I’m currently learning C, HTML,CSS,JavaScript,React js,Python,Java...<br>
-   ✉️ Male: a25468213@gmail.com<br>
-   ⚡ TMI: I like fashion🧥, and I like to watch movie🎞️
 </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
