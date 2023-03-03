@@ -1,5 +1,3 @@
-<h1 align="center"> Hi there!! I'm Hee Sung Lee! 👋</h1>
-<p align="center">
-   🔭 I’m currently studying at Busan Software Meister Highschool<br>
-   🌱 I’m currently learning C,Reactjs,Nodejs,Python,Java...<br>
-</p>
+<div align ="center">
+   <img src ="https://i.pinimg.com/originals/ab/58/7b/ab587b05f2a87614eb209befdb2d32be.gif"/>
+</div>
