@@ -1,5 +1,5 @@
 # contact me 📞
-- [📷ig](https://www.instagram.com/lcaf_17/)
+- [ig](https://www.instagram.com/lcaf_17/)
 - email: 
 <span style="color: blue">lheesung.dev@gmail.com<span>
 #
