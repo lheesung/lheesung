@@ -3,7 +3,7 @@
 현재 **React** 와 **Typescript** 를 공부하고 있습니다<br>
 요즘 **Spring** 에 관심을 가지고 있습니다
 
-# contact me 📞
+# 📞 contact me
 - [ig](https://www.instagram.com/lcaf_17/) <br>
 - <span style="color: blue">lheesung.dev@gmail.com<span>
 #
