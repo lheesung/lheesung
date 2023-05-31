@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-현재 **React** 와 **Typescript** 를 공부하고 있습니다
+현재 **React**를 공부하고 있습니다
 
 # 📞 contact me
 - [ig](https://www.instagram.com/lcaf_17/) <br>
