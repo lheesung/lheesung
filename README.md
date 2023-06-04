@@ -2,7 +2,7 @@
 
 현재 **React**를 공부하고 있습니다
 
-# 📞 contact me
+# 📞 Contact me
 - [ig](https://www.instagram.com/lcaf_17/) <br>
 - <span style="color: blue">lheesung.dev@gmail.com<span>
 #
